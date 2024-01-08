@@ -1,0 +1,183 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+#demo{
+    /* border: 2px solid red; */
+    height: 70px;
+    font-family: Open Sans, sans-serif;
+    /* position: fixed; */
+
+}
+#demo img{
+    /* border: 2px solid; */
+    height: 45px;
+    margin-left:200px ;
+    margin-top: 13px;
+}
+#demo img+img{
+    /* border:  2px solid red; */
+    margin-left: 10px;
+    height: 45px;
+    
+}
+#demo1 ol{
+    /* border: 2px solid red; */
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+    list-style: none;
+    margin-left: 600px;
+    position: relative;
+    bottom: 30px;
+    color: #5e6576;
+    /* margin-bottom: 130px; */
+}
+#demo ol button{
+    /* border: 2px solid red; */
+    padding: 10px;
+    width: 120px;
+    position: relative;
+    bottom: 10px;
+    border-radius: 18px;
+    /* background-color: rgb(0, 128, 255); */
+    background-color: #2b6997;
+}
+#demo2{
+    /* border: 2px solid red; */
+    height: 265vh;
+    /* position: sticky; */
+    z-index: -1;
+}
+#demo3{
+    /* border: 2px solid red; */
+    text-align: end;
+    margin-right: 130px;
+    margin-top: 40px;
+
+}
+#demo4 h1{
+    /* border: 2px solid red; */
+    position: relative;
+    bottom: 400px;
+    font-size: 45px;
+    color: #2b6997;
+    font-weight: 500;
+    margin-left: 180px;
+    margin-top: 80px;
+    /* margin-bottom: 0px; */
+}
+#demo5 {
+    /* border: 2px solid red; */
+    position: relative;
+    bottom: 400px;
+    font-family: Open Sans, sans-serif;
+    margin-left: 180px;
+    color: #5e6576;
+    margin-top: 20px;
+    /* margin-top: 80px; */
+
+}
+#demo6{
+    /* border: 2px solid red; */
+    margin-left: 50px;
+    margin-top: -30px;
+}
+#demo7 h1{
+    /* border: 2px solid red; */
+    position: relative;
+    bottom: 400px;
+    font-size: 35px;
+    color: #2b6997;
+    font-weight: 500;
+    margin-left: 40%;
+    margin-top: 150px;
+}
+#demo7 pre{
+     /* border: 2px solid red; */
+     width: 50%;
+     font-size: 15px;
+     position: relative;
+     margin-left: 500px;
+     bottom: 360px;
+     color: #5e6576;
+     font-family: Open Sans, sans-serif;
+}
+#demo8 div img{
+    /* border: 2px solid red; */
+    position: relative;
+    bottom: 160px;
+    left: 930px;
+}
+#demo9 h1{
+    /* border: 2px solid red; */
+    position: relative;
+    bottom: 450px;
+    font-size: 33px;
+    color: #2b6997;
+    font-weight: 500;
+    left: 150px;
+}
+#demo10 li{
+    /* border: 2px solid red; */
+    position: relative;
+    bottom: 440px;
+    left: 180px;
+    font-size: 15px;
+    color: #5e6576;
+    font-family: Open Sans, sans-serif;
+
+}
+#demo11 img{
+    /* border: 2px solid red; */
+    position: relative;
+    bottom: 300px;
+    height: 300px;
+    width: 400px;
+    left: 100px;
+}
+#demo12 {
+    /* border: 2px solid red; */
+    font-size: 30px;
+    color: #2b6997;
+    font-weight: 500;
+    position: relative;
+    bottom: 570px;
+    left: 650px;
+}
+#demo13{
+    /* border: 2px solid red; */
+    position: relative;
+    bottom: 550px;
+    left: 610px;
+    font-size: 17px;
+    color: #5e6576;
+    font-family: Open Sans, sans-serif;
+}
+footer{
+    border: 2px solid red;
+     height: 350px;
+     position: relative;
+     bottom: 350px;
+     padding: 0%;
+     margin: 0%;
+     background-color: rgba(0, 0, 0, 0.849);
+}
+footer img{
+    /* border: 2px solid red; */
+    height: 50px;
+    margin-left: 230px;
+    margin-top: 40px;
+    color: antiquewhite;
+
+}
+footer h3{
+    /* border: 2px solid red; */
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    text-transform: capitalize;
+    font-family:Open Sans, sans-serif ;
+    margin-left: 230px;
+    margin-top: 20px;
+}
